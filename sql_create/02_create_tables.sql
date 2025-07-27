@@ -6,10 +6,9 @@ CREATE TABLE authors (
 
 
 CREATE TABLE books (
-    book_id TEXT Primary Key,
+    book_id TEXT PRIMARY KEY,
     title TEXT NOT NULL,
     genre TEXT,
     year_published INTEGER,
     author_id TEXT
-    FOREIGN KEY (author_id) REFERENCES authors(author_id)
 );
