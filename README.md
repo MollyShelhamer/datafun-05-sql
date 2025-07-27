@@ -17,3 +17,9 @@ This project demonstrates how to build and manage a lightweight relational datab
 
  ## Project Structure
  <img width="295" height="503" alt="image" src="https://github.com/user-attachments/assets/f7289e9c-6d69-4afb-b762-cddf8f734441" />
+
+ ## Workflow
+ - Create Folder Structure
+ - Create SQL files
+ - Create Python Files
+ - Run after each python file creation, test, update accordingly
