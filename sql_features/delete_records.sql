@@ -1,2 +1,2 @@
 DELETE FROM authors
-WHERE last = 'ROWLING';
+WHERE last = 'Rowling';
