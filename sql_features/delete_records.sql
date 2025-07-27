@@ -1,0 +1,2 @@
+DELETE FROM authors
+WHERE last = 'ROWLING';
