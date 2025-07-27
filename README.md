@@ -14,3 +14,6 @@ This project demonstrates how to build and manage a lightweight relational datab
   - `pathlib`: For filesystem path management.
   - `csv` *(optional)*: Built-in CSV file reader (can be replaced by `pandas`).
   - `uuid` *(optional)*: For generating unique IDs.
+
+ ## Project Structure
+ <img width="295" height="503" alt="image" src="https://github.com/user-attachments/assets/f7289e9c-6d69-4afb-b762-cddf8f734441" />
